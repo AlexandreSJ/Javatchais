@@ -1,0 +1,7 @@
+{
+  "name": "Javatchais",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
